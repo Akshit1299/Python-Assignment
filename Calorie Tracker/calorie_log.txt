@@ -1,0 +1,10 @@
+Daily Calorie Tracker Report
+--------------------------------------------
+Meal Name        Calories
+Potato              30.00
+Tomato              40.00
+--------------------------------------------
+Total: 70.0
+Average: 35.0
+ You have exceeded your daily limit!
+Saved on: 2025-11-11 20:53:11.338372
